@@ -2,7 +2,7 @@
 
 ## Definición
 
-Panizza (2001) define al ***Geomorfositio*** como una parte de la superficie terrestre que tiene importancia para entender la historia de la Tierra como su origen y formación, además, tienen valor para la reconstrucción de los paisajes y la configuración de los territorios (González, Serrano y González, 2014). También es entendido como un relieve que ha adquirido un valor especial debido a la percepción y explotación que le den las personas (Kubalíkova, 2013). Cabe destacar que el concepto Geomorfositio es un acrónimo de la expresión "Sitio Geomorfológico" (Pereira, Pereira y Caetano, 2007).
+Panizza (2001) define al ***Geomorfositio*** como una parte de la superficie terrestre que tiene importancia para entender la historia de la Tierra como su origen y formación, además, tienen valor para la reconstrucción de los paisajes y la configuración de los territorios (González, Serrano y González, 2014). También es entendido como un relieve que ha adquirido un valor especial debido a la percepción y explotación que le den las personas (Kubalíková, 2013). Cabe destacar que el concepto Geomorfositio es un acrónimo de la expresión "Sitio Geomorfológico" (Pereira, Pereira y Caetano, 2007).
 
 También se entiende como Geomorfositio a aquellos lugares cuyo interés se basa en las formas del relieve creadas a partir de procesos geomorfológicos activos o relictos, como es el caso de las formas de relieve glaciales, fluviales, volcánicas, entre otras (Huaman y Suarez, 2024), que poseen un valor histórico, cultural, estético y/o socioeconómico desde un punto de vista geográfico que superan lo exclusivamente geomorfológico (Palacio, 2013).
 
@@ -31,7 +31,7 @@ En cuanto a la *Singularidad*, hace referencia a que tan raro es el geomorfositi
 
 **Figura 2**: Fotografía del volcán Paricutín en medio de una erupción (Fuente: [Morán-Zenteno et al, 2024](https://iugs-geoheritage.org/geoheritage_sites/paricutin-volcano/)).
 
-Por último, la *importancia paleográfica* se refiere a la relevancia que tiene el sitio para explicar procesos naturales o el origen del planeta Tierra ya que su historia geológica, geográfica y geomorfológica permiten entender y explicar la dinámica de nuestro planeta. Un ejemplo de esto es el caso del supervolcán de [Yellowstone](https://www.youtube.com/watch?v=N5E-qF-m4Qs&t=154s) el cual según distintos estudios revelan que es un volcán que cambio la dinámica climática del planeta y en caso de una nueva erupción ocurriría un cambio igual al causado en el pasado.
+Por último, la *importancia paleográfica* se refiere a la relevancia que tiene el sitio para explicar procesos naturales o el origen del planeta Tierra ya que su historia geológica, geográfica y geomorfológica permiten entender y explicar la dinámica de nuestro planeta. Un ejemplo de esto es el caso del supervolcán de [Yellowstone](https://www.youtube.com/watch?v=N5E-qF-m4Qs&t=154s) el cual según distintos estudios revelan que es un volcán que cambió la dinámica climática del planeta y en caso de una nueva erupción ocurriría un cambio igual al causado en el pasado.
 
 #### Caracterización de los valores añadidos de un geomorfositio
 
@@ -55,7 +55,7 @@ En este apartado se describen aquellos valores y caracteristicas que las persona
 
 **Figura 5**: Lagos gemelos en la Depresión del volcán Eboga, Camerún. (Fuente: [Tchouanhou, 2024](https://www.journaletudiant.com/discover-mount-manengouba-and-its-twin-lakes/)).
 
-* *Valor económico/social*: esya relacionado con su uso potencial, especialmente para el geoturismo. Este valor se enfoca en como las personas obtienen ganancia económicas utilizando los geomorfositios como principal recurso turístico. Un ejemplo de esto es descrito por [Dóniz-Páez, 2025](https://www.researchgate.net/publication/398109929_Paisajes_nacidos_del_magma_El_legado_natural_tras_la_erupcion_del_Tajogaite) y también [Dóniz-Páez et al, (2022)](https://www.researchgate.net/publication/365979224_Tajogaite_2021_Eruption_La_Palma_Canary_Islands_Spain_An_Exceptional_Volcanic_Heritage_to_Develop_Geotourism) al describir la actividad del volcán Tajogaite en Islas Canarias y como a partir de este evento se logró realizar una propuesta de ruta geotúristica para conocer y ver en primer plano la dinámica del volcán con lo cual las personas pueden crear negocios basados en un turismo volcánico (Figura 6).
+* *Valor económico/social*: esta relacionado con su uso potencial, especialmente para el geoturismo. Este valor se enfoca en como las personas obtienen ganancia económicas utilizando los geomorfositios como principal recurso turístico. Un ejemplo de esto es descrito por [Dóniz-Páez, 2025](https://www.researchgate.net/publication/398109929_Paisajes_nacidos_del_magma_El_legado_natural_tras_la_erupcion_del_Tajogaite) y también [Dóniz-Páez et al, (2022)](https://www.researchgate.net/publication/365979224_Tajogaite_2021_Eruption_La_Palma_Canary_Islands_Spain_An_Exceptional_Volcanic_Heritage_to_Develop_Geotourism) al describir la actividad del volcán Tajogaite en Islas Canarias y como a partir de este evento se logró realizar una propuesta de ruta geotúristica para conocer y ver en primer plano la dinámica del volcán con lo cual las personas pueden crear negocios basados en un turismo volcánico (Figura 6).
 
 ![Tajogaite](https://www.researchgate.net/publication/365979224/figure/fig5/AS:11431281335920597@1743390520407/Visitors-and-tourists-during-A-G-and-after-H-I-the-Tajogaite-eruption_W640.jpg)
 
@@ -69,32 +69,32 @@ Es una tarea que, se pretende ir resolviendo, por lo que como parte de estos tra
 
 ## Bibliografía
 
-Centro Nacional de Prevención de Desastres. (2025). El Paricutín, vida efímera de un volcán. Obtenido desde https://www.gob.mx/cenapred/es/articulos/el-paricutin-vida-efimera-de-un-volcan
+Centro Nacional de Prevención de Desastres. (2025). El Paricutín, vida efímera de un volcán. Obtenido desde [https://www.gob.mx/cenapred/es/articulos/el-paricutin-vida-efimera-de-un-volcan](https://www.gob.mx/cenapred/es/articulos/el-paricutin-vida-efimera-de-un-volcan)
 
-Dóniz-Páez, J., Nemeth, K., Becerra-Ramírez, R., Hernández, W., Gosálvez, R., Escobar, E., González, E. (2022). Tajogaite 2021 Eruption (La Palma, Canary Islands, Spain): An Exceptional Volcanic Heritage to Develop Geotourism. *Proceedings*, 87(1). https://doi.org/10.3390/IECG2022-13748
+Dóniz-Páez, J., Nemeth, K., Becerra-Ramírez, R., Hernández, W., Gosálvez, R., Escobar, E., González, E. (2022). Tajogaite 2021 Eruption (La Palma, Canary Islands, Spain): An Exceptional Volcanic Heritage to Develop Geotourism. *Proceedings*, 87(1). [https://doi.org/10.3390/IECG2022-13748](https://doi.org/10.3390/IECG2022-13748)
 
-Dóniz-Páez, J. (2025). Paisajes Nacidos del Magma. El legado natural tras la erupción del Tajogaite. *Ambienta*. Obtenido desde https://www.researchgate.net/publication/398109929_Paisajes_nacidos_del_magma_El_legado_natural_tras_la_erupcion_del_Tajogaite
+Dóniz-Páez, J. (2025). Paisajes Nacidos del Magma. El legado natural tras la erupción del Tajogaite. *Ambienta*. Obtenido desde [https://www.researchgate.net/publication/398109929_Paisajes_nacidos_del_magma_El_legado_natural_tras_la_erupcion_del_Tajogaite](https://www.researchgate.net/publication/398109929_Paisajes_nacidos_del_magma_El_legado_natural_tras_la_erupcion_del_Tajogaite)
 
-Ecos del tiempo (2026). Así sería Yellowstone, El Supervolcán que puede acabar con la civilización. Obtenido desde https://www.youtube.com/watch?v=N5E-qF-m4Qs&t=154s
+Ecos del tiempo (2026). Así sería Yellowstone, El Supervolcán que puede acabar con la civilización. Obtenido desde [https://www.youtube.com/watch?v=N5E-qF-m4Qs&t=154s](https://www.youtube.com/watch?v=N5E-qF-m4Qs&t=154s)
 
-González, Franco, A. (2022). La Montaña de los Siete Colores. Obtenido desde https://viajes.nationalgeographic.com.es/ubicacion-exacta/montana-siete-colores_17817
+González, Franco, A. (2022). La Montaña de los Siete Colores. Obtenido desde [https://viajes.nationalgeographic.com.es/ubicacion-exacta/montana-siete-colores_17817](https://viajes.nationalgeographic.com.es/ubicacion-exacta/montana-siete-colores_17817)
 
-González, M., Serrano, E. & González, M. (2014). Lugares de interés geomorfológico, geopatrimonio y gestión de espacios naturales protegidos: el Parque Natural de Valderejo (Álava, España). *Revista de Geografía Norte Grande*, (59): 45 – 64. http://dx.doi.org/10.4067/S0718-34022014000300004 
+González, M., Serrano, E. & González, M. (2014). Lugares de interés geomorfológico, geopatrimonio y gestión de espacios naturales protegidos: el Parque Natural de Valderejo (Álava, España). *Revista de Geografía Norte Grande*, (59): 45 – 64. [http://dx.doi.org/10.4067/S0718-34022014000300004](http://dx.doi.org/10.4067/S0718-34022014000300004)
 
-Huaman, E. & Suarez, J. (2024). Rocas que narran la historia: Inventario del patrimonio geológico del Valle Sagrado de los Incas y su potencial como geoparque. *Revista Ambiente, Comportamiento y Sociedad*, 7(2): 52 – 73. https://doi.org/10.51343/racs.v7i2.1513
+Huaman, E. & Suarez, J. (2024). Rocas que narran la historia: Inventario del patrimonio geológico del Valle Sagrado de los Incas y su potencial como geoparque. *Revista Ambiente, Comportamiento y Sociedad*, 7(2): 52 – 73. [https://doi.org/10.51343/racs.v7i2.1513](https://doi.org/10.51343/racs.v7i2.1513)
 
-Kubalíková, L. (2013). Geomorphosite assessment for geotourism purposes. *Czech Journal of Tourism*, 2(2): 80 – 104. https://doi.org/10.2478/cjot-2013-0005
+Kubalíková, L. (2013). Geomorphosite assessment for geotourism purposes. *Czech Journal of Tourism*, 2(2): 80 – 104. [https://doi.org/10.2478/cjot-2013-0005](https://doi.org/10.2478/cjot-2013-0005)
 
-Morán-Zenteno, D., Martiny, B., Guilbaud, M., Morelos, L., Luna, L., García, H., Siebe, C., Avellán, D. & Cisneros, G. Paricutín Volcano. Obtenido desde https://iugs-geoheritage.org/geoheritage_sites/paricutin-volcano/
+Morán-Zenteno, D., Martiny, B., Guilbaud, M., Morelos, L., Luna, L., García, H., Siebe, C., Avellán, D. & Cisneros, G. Paricutín Volcano. Obtenido desde [https://iugs-geoheritage.org/geoheritage_sites/paricutin-volcano/](https://iugs-geoheritage.org/geoheritage_sites/paricutin-volcano/)
 
 Palacio, J. (2013). Geositios, geomorfositios y geoparques: importancia, situación actual y perspectivas en México. *Investigaciones Geográficas, Boletín del Instituto de Geografía, UNAM*. (82): 24 – 37.
 
-Panizza, M. (2001). Geomorphosites: Concepts, methods and examples of geomorphological survey. *Science Bulletin*, 46(1): 4 – 5. https://doi.org/10.1007/BF03187227
+Panizza, M. (2001). Geomorphosites: Concepts, methods and examples of geomorphological survey. *Science Bulletin*, 46(1): 4 – 5. [https://doi.org/10.1007/BF03187227](https://doi.org/10.1007/BF03187227)
 
 Pereira, P., Pereira, D. & Caetano, M. (2007). Geomorphosite assessment in Montesihno Natural Park (Portugal). *Geographica Helvetica*, 62(3): 159 – 168. DOI:10.5194/gh-62-159-2007
 
 Pérez-Umaña, D. (2017). Evaluación del potencial turístico de geomorfositios en el Parque Nacional Volcán Poás. Tesis para optar por el grado de licenciatura en Ciencias Geográficas con énfasis en Ordenamiento del Territorio, Universidad Nacional, Costa Rica.
 
-Reynard, E. Perret, A., Bussard, J., Grangier, L. & Martin, S. (2016). Integrated approach for the inventory and management of geomorphological heritage at the regional scale. *Geoheritage*, (8): 43 – 60. https://doi.org/10.1007/s12371-015-0153-0
+Reynard, E. Perret, A., Bussard, J., Grangier, L. & Martin, S. (2016). Integrated approach for the inventory and management of geomorphological heritage at the regional scale. *Geoheritage*, (8): 43 – 60. [https://doi.org/10.1007/s12371-015-0153-0](https://doi.org/10.1007/s12371-015-0153-0)
 
-Tchouanhou, E. (2024). Discover: Mount Manengouba and Its Twin Lakes. Obtenido desde https://www.journaletudiant.com/discover-mount-manengouba-and-its-twin-lakes/
+Tchouanhou, E. (2024). Discover: Mount Manengouba and Its Twin Lakes. Obtenido desde [https://www.journaletudiant.com/discover-mount-manengouba-and-its-twin-lakes/](https://www.journaletudiant.com/discover-mount-manengouba-and-its-twin-lakes/)
