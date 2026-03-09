@@ -85,7 +85,7 @@ Huaman, E. & Suarez, J. (2024). Rocas que narran la historia: Inventario del pat
 
 Kubalíková, L. (2013). Geomorphosite assessment for geotourism purposes. *Czech Journal of Tourism*, 2(2): 80 – 104. [https://doi.org/10.2478/cjot-2013-0005](https://doi.org/10.2478/cjot-2013-0005)
 
-Morán-Zenteno, D., Martiny, B., Guilbaud, M., Morelos, L., Luna, L., García, H., Siebe, C., Avellán, D. & Cisneros, G. Paricutín Volcano. Obtenido desde [https://iugs-geoheritage.org/geoheritage_sites/paricutin-volcano/](https://iugs-geoheritage.org/geoheritage_sites/paricutin-volcano/)
+Morán-Zenteno, D., Martiny, B., Guilbaud, M., Morelos, L., Luna, L., García, H., Siebe, C., Avellán, D. & Cisneros, G. (2024) Paricutín Volcano. Obtenido desde [https://iugs-geoheritage.org/geoheritage_sites/paricutin-volcano/](https://iugs-geoheritage.org/geoheritage_sites/paricutin-volcano/)
 
 Palacio, J. (2013). Geositios, geomorfositios y geoparques: importancia, situación actual y perspectivas en México. *Investigaciones Geográficas, Boletín del Instituto de Geografía, UNAM*. (82): 24 – 37.
 
