@@ -17,7 +17,7 @@ Kubalíková (2013) cita a Reynard, Coratza y Regolini-Bissing (2009) quienes de
 
 Los valores científicos van relacionado con la formación y descripción geológica y geomorfológica de un lugar, de ahí que requiere datos e información científica para caracterizar estos lugares.
 
-Cuando se habla de la *representatividad del sitio* hace referencia a que importancia que tiene un lugar para representar a un poblado o región. Un ejemplo es el [volcán Poás](https://www.researchgate.net/publication/376262099_Inventory_and_assessment_of_geoheritage_in_Poas_Volcano_National_Park_Costa_Rica/figures) (Figura 1), el cual es un lugar símibolico para promover el turismo en Costa Rica
+Cuando se habla de la *representatividad del sitio* hace referencia a que importancia tiene un lugar para representar a un poblado o región. Un ejemplo es el [volcán Poás](https://www.researchgate.net/publication/376262099_Inventory_and_assessment_of_geoheritage_in_Poas_Volcano_National_Park_Costa_Rica/figures) (Figura 1), el cual es un lugar símibolico para promover el turismo en Costa Rica
 
 ![Poás](https://www.researchgate.net/profile/Dennis-Perez-Umana/publication/317416379/figure/fig6/AS:503149435207680@1496971581837/Figura-10-Geomorfositio-Crater-Principal-Se-identifican-las-partes-que-conforman-este_W640.jpg)
 
@@ -25,7 +25,7 @@ Cuando se habla de la *representatividad del sitio* hace referencia a que import
 
 Del mismo modo, la *forma* y el *proceso* del geomorfositio va referida a que tipo relieve es y como este se creó. Siguiendo el mismo ejemplo de la Figura 1, el Cráter Principal del volcán Poás es producto de distintos procesos eruptivos que se desplazaron creando primero el Cono Von Frantzius, luego el Cono Botos y por último el actual cráter del volcán. Los primeros tienen forma de conos volcánicos mientras que el cratér principal tiene forma de olla.
 
-En cuanto a la *Singularidad*, hace referencia a que tan raro es el geomorfositio, ya que, habrán sitios que se parezcan pero sus propias caracteristicas lo hacen diferente. Un ejemplo es el [volcán Paricutín](https://iugs-geoheritage.org/geoheritage_sites/paricutin-volcano/) en Michoacán, México, el cual se trata de un volcán al cual se le logró documentar su actividad de inicio a fin, lo cual lo ha convertido en un volcán singular a nivel global (Figura 2).
+En cuanto a la *Singularidad*, hace referencia a que tan raro es el geomorfositio, ya que, habrán sitios que se parezcan pero sus propias caracteristicas lo hacen diferente. Un ejemplo es el [volcán Paricutín](https://iugs-geoheritage.org/geoheritage_sites/paricutin-volcano/) en Michoacán, México, el cual se trata de un volcán al cual se le logró documentar su actividad de inicio a fin, lo cual convierte en un volcán singular a nivel global (Figura 2).
 
 ![Paricutín](https://iugs-geoheritage.org/wp-content/uploads/2024/07/160-2-Paricutin-Volcano.jpg)
 
@@ -49,7 +49,7 @@ En este apartado se describen aquellos valores y caracteristicas que las persona
 
 **Figura 4**: Montaña de los Siete Colores (Fuente: [González-Franco, 2022](https://viajes.nationalgeographic.com.es/ubicacion-exacta/montana-siete-colores_17817)).
 
-* *Valor ecológico*: expresa la relación entre los elementos geomorfológicos y la biodiversidad del lugar así como la influencia del geomorfositio influye en la presencia de especies específicas. Un ejemplo de esto ocurre en la [Depresión del Volcán Eboga](https://www.journaletudiant.com/discover-mount-manengouba-and-its-twin-lakes/) en Camerún donde sus lagos gemelos (llamadaos Male y Female) presentan un tipo de vegetación acuatica que solo se ha encontrado en dichos lagos (Figura 5).
+* *Valor ecológico*: expresa la relación entre los elementos geomorfológicos y la biodiversidad del lugar así como la influencia del geomorfositio influye en la presencia de especies específicas. Un ejemplo de esto ocurre en la [Depresión del Volcán Eboga](https://www.journaletudiant.com/discover-mount-manengouba-and-its-twin-lakes/) en Camerún donde sus lagos gemelos (llamados Male y Female) presentan un tipo de vegetación acuática que solo se ha encontrado en dichos lagos (Figura 5).
 
 ![Manegouba](https://www.journaletudiant.com/wp-content/uploads/2024/09/IMG-20240924-WA0031.jpg)
 
@@ -77,7 +77,7 @@ Dóniz-Páez, J. (2025). Paisajes Nacidos del Magma. El legado natural tras la e
 
 Ecos del tiempo (2026). Así sería Yellowstone, El Supervolcán que puede acabar con la civilización. Obtenido desde [https://www.youtube.com/watch?v=N5E-qF-m4Qs&t=154s](https://www.youtube.com/watch?v=N5E-qF-m4Qs&t=154s)
 
-González, Franco, A. (2022). La Montaña de los Siete Colores. Obtenido desde [https://viajes.nationalgeographic.com.es/ubicacion-exacta/montana-siete-colores_17817](https://viajes.nationalgeographic.com.es/ubicacion-exacta/montana-siete-colores_17817)
+González-Franco, A. (2022). La Montaña de los Siete Colores. Obtenido desde [https://viajes.nationalgeographic.com.es/ubicacion-exacta/montana-siete-colores_17817](https://viajes.nationalgeographic.com.es/ubicacion-exacta/montana-siete-colores_17817)
 
 González, M., Serrano, E. & González, M. (2014). Lugares de interés geomorfológico, geopatrimonio y gestión de espacios naturales protegidos: el Parque Natural de Valderejo (Álava, España). *Revista de Geografía Norte Grande*, (59): 45 – 64. [http://dx.doi.org/10.4067/S0718-34022014000300004](http://dx.doi.org/10.4067/S0718-34022014000300004)
 
