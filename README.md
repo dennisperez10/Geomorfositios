@@ -55,11 +55,11 @@ En este apartado se describen aquellos valores y caracteristicas que las persona
 
 **Figura 5**: Lagos gemelos en la Depresión del volcán Eboga, Camerún. (Fuente: [Tchouanhou, 2024](https://www.journaletudiant.com/discover-mount-manengouba-and-its-twin-lakes/)).
 
-* *Valor económico/social*: esta relacionado con su uso potencial, especialmente para el geoturismo. Este valor se enfoca en como las personas obtienen ganancia económicas utilizando los geomorfositios como principal recurso turístico. Un ejemplo de esto es descrito por [Dóniz-Páez, 2025](https://www.researchgate.net/publication/398109929_Paisajes_nacidos_del_magma_El_legado_natural_tras_la_erupcion_del_Tajogaite) y también [Dóniz-Páez et al, (2022)](https://www.researchgate.net/publication/365979224_Tajogaite_2021_Eruption_La_Palma_Canary_Islands_Spain_An_Exceptional_Volcanic_Heritage_to_Develop_Geotourism) al describir la actividad del volcán Tajogaite en Islas Canarias y como a partir de este evento se logró realizar una propuesta de ruta geotúristica para conocer y ver en primer plano la dinámica del volcán con lo cual las personas pueden crear negocios basados en un turismo volcánico (Figura 6).
+* *Valor económico/social*: esta relacionado con su uso potencial, especialmente para el geoturismo. Este valor se enfoca en como las personas obtienen ganancia económicas utilizando los geomorfositios como principal recurso turístico. Un ejemplo de esto es descrito por [Dóniz-Páez, 2025](https://www.researchgate.net/publication/398109929_Paisajes_nacidos_del_magma_El_legado_natural_tras_la_erupcion_del_Tajogaite) y también [Hernández, Dóniz-Páez y Pérez (2022)](https://www.researchgate.net/publication/362745051_Urban_Geotourism_in_La_Palma_Canary_Islands_Spain) al describir la actividad del volcán Tajogaite en Islas Canarias y como a partir de este evento se logró realizar una propuesta de ruta geotúristica para conocer y ver en primer plano la dinámica del volcán con lo cual las personas pueden crear negocios basados en un turismo volcánico (Figura 6).
 
 ![Tajogaite](https://www.researchgate.net/publication/362745051/figure/fig4/AS:11431281417622681@1746115009494/Visitors-watching-the-eruption-La-Palma-Spain-Source-Authors_W640.jpg)
 
-**Figura 6**: Turismo que aprovecha la actividad del volcán Tajogaite (Fuente: [Hernández, Dóniz-Páez, Pérez, 2022](https://www.researchgate.net/publication/362745051_Urban_Geotourism_in_La_Palma_Canary_Islands_Spain)).
+**Figura 6**: Turismo que aprovecha la actividad del volcán Tajogaite (Fuente: [Hernández, Dóniz-Páez y Pérez, 2022](https://www.researchgate.net/publication/362745051_Urban_Geotourism_in_La_Palma_Canary_Islands_Spain)).
 
 ### El caso de Costa Rica
 
