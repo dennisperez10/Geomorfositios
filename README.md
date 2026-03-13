@@ -57,9 +57,9 @@ En este apartado se describen aquellos valores y caracteristicas que las persona
 
 * *Valor económico/social*: esta relacionado con su uso potencial, especialmente para el geoturismo. Este valor se enfoca en como las personas obtienen ganancia económicas utilizando los geomorfositios como principal recurso turístico. Un ejemplo de esto es descrito por [Dóniz-Páez, 2025](https://www.researchgate.net/publication/398109929_Paisajes_nacidos_del_magma_El_legado_natural_tras_la_erupcion_del_Tajogaite) y también [Dóniz-Páez et al, (2022)](https://www.researchgate.net/publication/365979224_Tajogaite_2021_Eruption_La_Palma_Canary_Islands_Spain_An_Exceptional_Volcanic_Heritage_to_Develop_Geotourism) al describir la actividad del volcán Tajogaite en Islas Canarias y como a partir de este evento se logró realizar una propuesta de ruta geotúristica para conocer y ver en primer plano la dinámica del volcán con lo cual las personas pueden crear negocios basados en un turismo volcánico (Figura 6).
 
-![Tajogaite](https://www.researchgate.net/publication/365979224/figure/fig5/AS:11431281335920597@1743390520407/Visitors-and-tourists-during-A-G-and-after-H-I-the-Tajogaite-eruption_W640.jpg)
+![Tajogaite](https://www.researchgate.net/publication/362745051/figure/fig4/AS:11431281417622681@1746115009494/Visitors-watching-the-eruption-La-Palma-Spain-Source-Authors_W640.jpg)
 
-**Figura 6**: Turismo que aprovecha la actividad del volcán Tajogaite (Fuente: [Dóniz-Páez et al., 2022](https://www.researchgate.net/publication/365979224_Tajogaite_2021_Eruption_La_Palma_Canary_Islands_Spain_An_Exceptional_Volcanic_Heritage_to_Develop_Geotourism)).
+**Figura 6**: Turismo que aprovecha la actividad del volcán Tajogaite (Fuente: [Hernández, Dóniz-Páez, Pérez, 2022](https://www.researchgate.net/publication/362745051_Urban_Geotourism_in_La_Palma_Canary_Islands_Spain)).
 
 ### El caso de Costa Rica
 
@@ -71,8 +71,6 @@ Es una tarea que, se pretende ir resolviendo, por lo que como parte de estos tra
 
 Centro Nacional de Prevención de Desastres. (2025). El Paricutín, vida efímera de un volcán. Obtenido desde [https://www.gob.mx/cenapred/es/articulos/el-paricutin-vida-efimera-de-un-volcan](https://www.gob.mx/cenapred/es/articulos/el-paricutin-vida-efimera-de-un-volcan)
 
-Dóniz-Páez, J., Nemeth, K., Becerra-Ramírez, R., Hernández, W., Gosálvez, R., Escobar, E., González, E. (2022). Tajogaite 2021 Eruption (La Palma, Canary Islands, Spain): An Exceptional Volcanic Heritage to Develop Geotourism. *Proceedings*, 87(1). [https://doi.org/10.3390/IECG2022-13748](https://doi.org/10.3390/IECG2022-13748)
-
 Dóniz-Páez, J. (2025). Paisajes Nacidos del Magma. El legado natural tras la erupción del Tajogaite. *Ambienta*. Obtenido desde [https://www.researchgate.net/publication/398109929_Paisajes_nacidos_del_magma_El_legado_natural_tras_la_erupcion_del_Tajogaite](https://www.researchgate.net/publication/398109929_Paisajes_nacidos_del_magma_El_legado_natural_tras_la_erupcion_del_Tajogaite)
 
 Ecos del tiempo (2026). Así sería Yellowstone, El Supervolcán que puede acabar con la civilización. Obtenido desde [https://www.youtube.com/watch?v=N5E-qF-m4Qs&t=154s](https://www.youtube.com/watch?v=N5E-qF-m4Qs&t=154s)
@@ -80,6 +78,8 @@ Ecos del tiempo (2026). Así sería Yellowstone, El Supervolcán que puede acaba
 González-Franco, A. (2022). La Montaña de los Siete Colores. Obtenido desde [https://viajes.nationalgeographic.com.es/ubicacion-exacta/montana-siete-colores_17817](https://viajes.nationalgeographic.com.es/ubicacion-exacta/montana-siete-colores_17817)
 
 González, M., Serrano, E. & González, M. (2014). Lugares de interés geomorfológico, geopatrimonio y gestión de espacios naturales protegidos: el Parque Natural de Valderejo (Álava, España). *Revista de Geografía Norte Grande*, (59): 45 – 64. [http://dx.doi.org/10.4067/S0718-34022014000300004](http://dx.doi.org/10.4067/S0718-34022014000300004)
+
+Hernández, W., Dóniz-Páez, J. & Pérez, N. (2022). Urban geotourism in La Palma, Canary Islands, Spain. *Land*, 11(8). [https://doi.org/10.3390/land11081337](https://doi.org/10.3390/land11081337)
 
 Huaman, E. & Suarez, J. (2024). Rocas que narran la historia: Inventario del patrimonio geológico del Valle Sagrado de los Incas y su potencial como geoparque. *Revista Ambiente, Comportamiento y Sociedad*, 7(2): 52 – 73. [https://doi.org/10.51343/racs.v7i2.1513](https://doi.org/10.51343/racs.v7i2.1513)
 
